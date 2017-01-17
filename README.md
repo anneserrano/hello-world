@@ -1,2 +1,3 @@
 # hello-world
-nouveau repository
+nouveau référentiel
+anne serrano, apprenante simplon ern in'ess
